@@ -1,6 +1,5 @@
 import { Router, type Request, type Response } from "express";
 // ข้อ 1.1 import zStudentPutBody
-// hew wa
 import {
   zStudentPostBody,
   zStudentPutBody,
